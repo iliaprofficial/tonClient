@@ -71,7 +71,7 @@ h1 {
 
 .Button.Active:hover {
   filter: brightness(105%);
-  color: #000;
+  color: #001;
   text-decoration: underline;
 }
 
